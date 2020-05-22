@@ -32,7 +32,7 @@ System.out.println(number+"^"+p+"="+result);
 
 }
 
-
+//hello
 	
 		
 	}
