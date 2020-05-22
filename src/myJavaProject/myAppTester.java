@@ -36,6 +36,8 @@ System.out.println(number+"^"+p+"="+result);
 	//testing
 	//new test
 	//tested
+	//test2
+	//testedd
 	
 		
 	}
